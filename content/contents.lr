@@ -1,33 +1,32 @@
-_model: home
+_model: Домашняя страница
 ---
 next_date: 2017-03-31
 ---
-title: Data as Remedy for Post-Truth — 24h Hackathon in Tartu, Estonia 31.03‒1.04
+title: Факты как панацея в эпоху пост-прады — 24-часовой хакатон в Тарту, Эстония, 31.03‒1.04
 ---
 description:
 
-During 24h teams of data analysts, designers, journalists, IT-experts, social scientists etc will find solutions to various post-truth phenomena, focusing on data journalism and innovating the digital media infrastructure.
+В течение 24-часов команды аналитиков по данным, дизайнеры, журналисты, специалисты в области информационных технологий, гуманитарных наук и всех заинтересованных будут искать решения для различных явлений пост-правды при помощи журналистики данных и инновациях в области социальных медия.
 ---
-intro_heading: Why a post-truth hackathon?
+intro_heading: Почему хакатон пост-правды?
 ---
 intro_body:
 
-Manipulation of public opinion has recently reached new heights by taking fast advantage of the diverse opportunities offered by the thriving digital media. These developments have given rise to the buzzword 'post-truth', a concept with far-reaching ramifications.
-
+Манипуляция общественным мнением в последнее время достигла небывалого размаха благодаря молниеносно растущим возможностям электронных средств массовой информации. Эти изменения привели к возникновению широко популярного в последнее время слова «пост-правда», понятия с далеко идущими последствиями. 
 ---
 intro_body_2:
 
-During the hackathon, we focus on the issue of trust, by aiming our attention both at the journalistic content and at the infrastructure facilitating it.
+Во время хакатона мы уделим внимание вопросам правды, используя возможности, которые предоставляет журналистика, а также информационные решения, которые ей содействуют. 
 
 ---
 where_and_when:
 
 31.03‒1.04  
-Tartu, Estonia
+Тарту, Эстония
 ---
 year_intro:
 
-The 24h event will be held at the [Spark Centre](https://www.contriber.com/spark/), starting with a kick-off for the teams on Friday, March 31, and closing with awards for the best solutions in the evening of April 1.
+24-часовое мероприятие будет проходить в [Spark Centre](https://www.contriber.com/spark/), начиная с представления команд в пятницу 31 марта и закончится награждением лучших проектов вечером 1 апреля.   
 
 ---
 action_text_1:
@@ -37,10 +36,10 @@ Registration is [now open](#register)!
 ---
 action_text_2:
 
-Since we can only admit a limited number of participants, act fast! If you have questions, ask them on [Twitter](https://twitter.com/trthack) or [Facebook](https://www.facebook.com/events/637643813106104/) or send e-mail to [hack24@infoaed.ee](mailto:hack24@infoaed.ee).
+Число участников ограничено! Регистрируйтесь оперативно! Если у вас будут какие-либо вопросы, задавайте их здесь [Twitter](https://twitter.com/trthack) или [Facebook](https://www.facebook.com/events/637643813106104/) либо по электронной почте [hack24@infoaed.ee](mailto:hack24@infoaed.ee).
 
 ---
-who_heading: What are we going to do?
+who_heading: Чем мы будем заниматься?
 ---
 who_body:
 
